@@ -2,8 +2,8 @@
 
 Jerry is a fine-tuned large language model designed to act as a medical chatbot. It combines a custom-trained Qwen3-8B model with a full-stack web application, allowing users to ask medical questions and receive intelligent, context-aware responses.
 
-**Live at:**[jerry-the-medical-assistant.vercel.app](https://jerry-the-medical-assistant.vercel.app/) (server currently inactive)   
-**Demo at:**[jerry-the-medical-assistant.youtube.com](https://www.youtube.com/watch?v=Xhl7pib7z5o)
+**Live at:** [jerry-the-medical-assistant.vercel.app](https://jerry-the-medical-assistant.vercel.app/) (server currently inactive)   
+**Demo at:** [jerry-the-medical-assistant.youtube.com](https://www.youtube.com/watch?v=Xhl7pib7z5o)
 
 <p align="center">
   <img src="jerry-ss.png" width="600" alt="Jerry the Medical Assistant Main Page" />
